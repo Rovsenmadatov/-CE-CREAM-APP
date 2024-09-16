@@ -10,4 +10,4 @@ PROJEDE UNIT TESTING KULLANILMIŞDIR
 # GIF
 
 ![](screen.gif)
-# -CE-CREAM-APP
+
